@@ -39,6 +39,7 @@ $line-color: hsl(215, 32%, 27%);
 // Let's go
 
 body{
+    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
